@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>WATER INDEX</title>
+  <link rel="stylesheet" type="text/css" href="mystyle.css">
+
+  <link rel="stylesheet" type="text/css"
+    href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="style.css">
+
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="flexbox.css">
+<link rel="stylesheet" href="foot.css">  
+<link rel="stylesheet" href="fe">    
+-->
+  
+
+ 
+  <style>
+    .city{
+    
+      /* margin-top: 20px; */
+      display: flex;
+      justify-content:center ;
+       /* border: 2px solid red; */
+      /* width: 2000px;  */
+      /* margin-left: 30px; */
+     
+    
+    } 
+    .city ul{
+display: flex;
+text-decoration: none;
+justify-content: center;
+/* border: 2px solid gold; */
+border: 2px solid black;
+padding: 20px;
+/* background-color:#edd26a; */
+background-color: lightgray;
+width: 1500px;
+
+
+
+
+
+    }
+    .city ul li{
+      display: flex;
+      margin-left: 1px ;
+      justify-content: center;
+      /* padding-right: -150px; */
+      padding: 80px;
+      padding-top: 0px;
+      padding-bottom: 0px;
+
+    }
+    .city ul li a{
+      text-decoration: none;
+      font-size: 20px;
+      /* color: green; */
+      color: black  ;
+
+    }
+    .main-container {
+            display: flex;
+            /* padding: 50px; */
+            flex-wrap: wrap;
+            justify-content: center;
+            /* margin-left:100px; */
+            /* background: lightyellow; */
+            background-color: lightgray ;
+          
+
+
+        }
+
+        .mumbai {
+            margin: 45px;
+            padding: 20px;
+            width: 300px;
+            /* border: 2px solid green; */
+            /* background-color:black; */
+            font: green;
+        }
+
+        .thane {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin-left: 9px;
+
+        }
+
+        .thane img {
+            width: 100%;
+            height: 350px;
+            margin-top: -22px;
+            margin-left: 5px;
+          margin-right: 314px;
+
+
+        }
+       
+  </style>
+
+
+  <header>
+
+    <nav>
+      <div class="logo">
+        WaterIn<span>dex</span>
+      </div>
+      <div class="menu">
+        <a href="#">HOME</a>
+        <a href="data_analysis.html">DATA ANALYSIS</a>
+        <a href="CROP.html">DISTRICT CROP</a>
+        <!-- <a href="about.html">ABOUT US</a> -->
+        <a href="contactuss.html">CONTACT US</a>
+      </div>
+      <div class="icon">
+        <i class="fa fa-search" aria-hidden="true"></i>
+        <a href="logins.html">LOGIN</a>
+      </div>
+    </nav>
+
+  </header>
+
+  <section class="h-text">
+    <i class="fa fa-camera" aria-hidden="true" id="camera"></i>
+    <h1>Check your water quality for different region..</h1>
+    <input type="text" name="" placeholder="Search below ..." id="myInput" onkeyup="searchwaterindex()">
+    <!-- <button><i class="fa fa-search" aria-hidden="true" id="search"></i></button> -->
+  </section>
+
+<body>
+  <div class="city">
+  <ul id="myUL">
+
+    <li><a href="/Mumbai/mumbai.html">MUMBAI</a>
+    <li><a href="/Thane/thane.html">THANE</a></li>
+    <li><a href="/palghar.html">PALGHAR</a></li>
+    <li><a href="/pune/pune.html">PUNE</a></li>
+    <li><a href="amravati.html">AMARAVATI</a></li>
+    <li><a href="/Nashik/nashik.html" target="_blank">NASHIK</li></a>
+  </ul>
+</div>
+
+<div class="main-container">
+
+  <div class="mumbai">
+      <div class="thane">
+         <a href="/Mumbai/mumbai.html"><img src="mumbai.jpg" alt="" ></a> 
+          <p>MUMBAI</p>
+      </div>
+  </div>
+  <div class="mumbai">
+      <div class="thane">
+         <a href="/Nashik/nashik.html"><img src="nashik.jpg" alt="" ></a> 
+          <p>NASHIK</p>
+      </div>
+  </div>
+  <div class="mumbai">
+      <div class="thane">
+         <a href="/Mumbai/mumbai.html"> <img src="palghar.jpg" alt="" ></a>
+          <p>PALGHAR</p>
+      </div>
+  </div>
+  <div class="mumbai">
+      <div class="thane">
+     <a href="/pune/pune.html"> <img src="pune.png" alt=""></a>
+      <p>PUNE</p>
+  </div>
+  </div>
+  <div class="mumbai">
+      <div class="thane">
+        <a href="amravati.html">  <img src="amaravati.jpg" alt=""></a>
+          <p>AMARAVATI</p>
+      </div>
+  </div>
+  <div class="mumbai">
+      <div class="thane">
+          <a href="/thane/thane.html"><img src="thane.jpg" alt=""></a>
+          <p>THANE</p>
+      </div>
+
+  </div>
+ 
+
+</div>
+<script>
+  const searchwaterindex = () => {
+    let filter = document.getElementById('myInput').value.toUpperCase();
+    let ul = document.getElementById('myUL');
+    let li = ul.getElementsByTagName('li');
+    for (var i = 0; i < li.length; i++) {
+      let a = li[i].getElementsByTagName('a')[0];
+      let textvalue = a.textContent || a.innerHTML;
+
+
+      if (textvalue.toUpperCase().indexOf(filter) > -1) {
+
+        li[i].style.display = '';
+
+      }
+      else {
+        li[i].style.display = 'none';
+      }
+
+
+    }
+  }
+
+
+
+
+</script>
+
+   
+<footer>
+  <div class="footer-gray">
+    <div class="footer-custom">
+      <div class="footer-lists">
+        <div class="footer-list-wrap">
+          <h6 class="ftr-hdr">Order Toll Free</h6>
+          <ul class="ftr-links-sub">
+            <li>Team Member</li>
+          </ul>
+          <h6 class="ftr-hdr">International</h6> 
+            <!-- <ul class="ftr-links-sub">
+            <li><a href="http://www.art.fr" rel="nofollow">MUMBAI</a></li>
+            <li><a href="https://www.art.co.uk" rel="nofollow">THANE</a></li>
+          </ul> -->
+        </div> 
+       
+        <div class="footer-list-wrap">
+          <!-- <h6 class="ftr-hdr">Customer Service</h6> -->
+          <ul class="ftr-links-sub">
+             <li><a href="aboutus.html">Know us more</a></li>
+                <li><a href="/help/placingorders.html" rel="nofollow">SHIVAM</a></li>
+              <li><a href="/help/shipping.html" rel="nofollow">SURAJ </a></li>
+              <li><a href="/help/shippingreturns.html" rel="nofollow">DHARA</a></li>
+              <li><a href="/help/international-shipping.html" rel="nofollow">ADITYA</a></li>
+              <!-- <li><a href="/~/egift-cards/" rel="nofollow">Gift Cards</a></li>  -->
+               <li><a href="/help/faq.html" rel="nofollow">FAQs</a></li> 
+          </ul>
+        </div>
+      
+      </div>
+      
+      <div class="footer-email">
+        
+        <div id="ftr-email" class="ftr-email-form">
+          <form id="ftrEmailForm" method="post" action="http://em.art.com/pub/rf">
+            <div class="error">Please enter a valid email address</div>
+            <input type="text" name="email_address_" id="ftrEmailInput" class="input" placeholder="Enter email address" />
+
+              
+            <input type="submit" class="button" value="SUBMIT" />
+            <input type="hidden" name="country_iso2" value="">
+            <input type="hidden" name="language_iso2" value="en">
+            <input type="hidden" name="site_domain" value="art.com">
+            <input type="hidden" name="email_acq_source" value="01-000001">
+            <input type="hidden" name="email_acq_date" value="" id="ftr-email-date">
+            <input type="hidden" name="brand_id" value="ART">
+            <input type="hidden" name="_ri_" value="X0Gzc2X%3DWQpglLjHJlYQGnp51yrMf2qXdC9tjU8pzgMtwfYzaVwjpnpgHlpgneHmgJoXX0Gzc2X%3DWQpglLjHJlYQGnyLSq2fzdkuzdzglHMsUhgeNzaSgkk">
+          </form>
+        </div>
+      
+        <div class="ftr-email-privacy-policy"></div>
+      </div>
+      <div class="footer-social">
+        <h6 class="ftr-hdr">Follow Us</h6>
+        <ul>
+          <li>
+            <a href="https://www.facebook.com/art.com" title="Facebook" onclick="_gaq.push(['_trackSocial', 'Facebook', 'Follow', 'Footer', 'undefined', 'True']);">
+              <img width="24" height="24" alt="Like us on Facebook" src="http://cache1.artprintimages.com/images/jump_pages/rebrand/footer/fb.png">
+            </a>
+          </li>
+          <li>
+            <a href="https://plus.google.com/108089796661280870153" title="Google+" onclick="_gaq.push(['_trackSocial', 'GooglePlus', 'Follow', 'Footer', 'undefined', 'True']);">
+              <img width="24" height="24" alt="Follow us on Google+" src="http://cache1.artprintimages.com/images/jump_pages/rebrand/footer/gplus.png">
+            </a>
+          </li>
+          <li>
+            <a href="https://pinterest.com/artdotcom/" target="_blank">
+              <img width="24" height="24" alt="Follow us on Pinterest" src="http://cache1.artprintimages.com/images/jump_pages/rebrand/footer/pin-badge.png">
+            </a>
+          </li>
+          <li>
+            <a target="_blank" href="http://instagram.com/artdotcom/">
+              <img width="24" height="24" alt="Follow us on Instagram" src="http://cache1.artprintimages.com/images/jump_pages/rebrand/footer/instagram-badge.png">
+            </a>
+          </li>
+          <li>
+            <a href="https://www.twitter.com/artdotcom" title="Twitter" onclick="_gaq.push(['_trackSocial', 'Twitter', 'Follow', 'Footer', 'undefined', 'True']);">
+              <img width="67" alt="Follow us on Twitter" src="http://cache1.artprintimages.com/images/jump_pages/rebrand/footer/twitter.png">
+            </a>
+          </li>
+        </ul>
+      </div>
+     
+      <div class="footer-legal">
+        <p>&copy; Art.com Inc. All Rights Reserved. | <a href="/help/privacy-policy.html" rel="nofollow">Privacy Policy</a> | <a href="/help/terms-of-use.html" rel="nofollow">Terms of Use</a> <a href="/help/terms-of-sale.html" rel="nofollow"></a></p>
+        <p>Art.com, You+Art, and Photos [to] Art are trademarks or registered trademarks of Art.com Inc.</p>
+        <p>Various aspects of this website are covered by issued US patent No. 7,973,796 and other pending patent applications.</p>
+      </div>
+    
+        </ul>
+      </div>
+ 
+    </div>
+   
+  </div>
+
+</footer>
+</body>
+
+</html>

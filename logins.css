@@ -1,0 +1,117 @@
+body
+{
+  margin: 0;
+  padding: 0;
+  background-image: url(https://us.123rf.com/450wm/craft24/craft241907/craft24190700013/127025301-blur-background-of-white-window-glass-using-for-mock-up-template-for-craft-display-of-your-design-.jpg?ver=6);
+  background-size: cover;
+  background-position: center;
+  font-family: sans-serif;
+}
+
+.loginbox
+{
+  width: 320px;
+  height: 420px;
+  background: #000;
+  color: #fff;
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%,-50%);
+  box-sizing: border-box;
+  padding: 70px 30px;
+}
+
+.avatar
+{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  position: absolute;
+  top: -50px;
+  left: calc(50% - 50px);
+}
+
+h1
+{
+  margin: 0;
+  padding: 0 0 20px;
+  text-align: center;
+  font-size: 22px;
+}
+
+.loginbox p
+{
+  width: 0;
+  height: 0;
+  font-weight: bold;
+}
+
+.loginbox input
+{
+  width: 100%;
+  margin-bottom: 20px;
+  
+}
+
+.loginbox input[type="text"], input[type="password"]
+{
+  border: none;
+  border-bottom: 1px solid #fff;
+  background: transparent;
+  outline: none;
+  height: 40px;
+  color: #fff;
+  font-size: 16px;
+}
+
+ .loginbox  button
+{
+  border: none;
+  outline: none;
+  height: 40px;
+  background: li;
+  color: #fff;
+  font-size: 18px;
+  border-radius: 20px;
+  
+}
+
+
+.loginbox button:hover
+{
+  pointer: cursor;
+  background: #ffc107;
+  color: #000;
+}
+
+.loginbox a
+{
+  text-decoration: none;
+  font-size: 12px;
+  line-height: 20px;
+  color: darkgrey;
+}
+
+button a:hover
+{
+  color: red;
+}
+
+button{
+    /* border: 10px solid green; */
+    font-size: 100px;
+    width: 100%;
+font-size: 30px;
+height: 40;
+background-color: lightblue;
+font-size: 160px;
+ 
+}
+button  .login  {
+height: 40px;
+font-size: 17px;
+
+
+
+}

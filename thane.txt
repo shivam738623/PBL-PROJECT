@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Home</title>
+    <style>
+        h1{
+            background-color: black;
+            color: #FF851B; margin-left: 20px;text-decoration: underline;
+        }
+        p{
+             text-align: justify; color: black; font-size: large;
+        }
+    </style>
+    </style>
+</head>
+<body style="background-color:#1287A8;">
+    <h1>INTRODUCTION</h1>
+<p>Thane is the northern most district of Konkan region of Maharashtra. It is second
+most populated district and one of the few industrially developed districts of the State.
+Thane district is situated between western ghat on eastern side and Arabian Sea coast
+on western side. On the northern side, it is bounded by forest area of Gujarat and on the
+southern side it is bounded by Bombay City. The district lies between north latitude
+18°25” and 20°12” and east longitude 72°27” and 73° 29”. It falls under Survey of India
+topo sheets 46D, 46H, 47A and 47E. The area, of Thane district is 9337 sq.km and
+occupies 3.11% of the total area of Maharashtra State. It extends for about 140 km from
+north to south and 101km from east to west. District head quarter is located at Thane
+town which is taluka head quarters also. Thane, Kalyan, Ulhas nagar, Ambernath and
+Bhiwandi are the industrially important talukas and are having urban culture. About 3/5th
+of the population lives in urban areas. The economy of the district is dependent on
+agriculture, especially in rural areas. Jawahar and Suryamal are the hill stations. Arnala
+fort, Mahim, Varjeshwari are the places famous for the tourism.
+Thane district is divided into three sub-divisions viz., Thane, Bhiwandi and
+Dahanu, which are further, divided into 15 talukas and 1748 villages. In addition to
+these, there are 23 uninhabited villages. Out of the total villages 1203 villages are tribal.
+There are as many as 925 Village Panchayats. The total population of Thane district as
+per 2001census is 81,28,833. Rural population is 22,28,873 (27.4%) and the rest is
+urban. Schedule Caste and Schedule Tribe population is 2,71,797 (3.3%) and 9,51,205
+(11.7%) respectively. The male population is 43,77,806 and female population is
+37,51,027.</p>
+
+<img src ="D:\thabe\thane.jpg" width="500" height="500" alt="Pune Districrt"></br>
+
+<h1>CLIMATE AND RAINFALL</h1>
+<p> </p>
+
+<img src ="D:\pune\pune.jpg" width="500" height="500" alt="Pune Districrt"></br>
+<img src ="D:\pune\locationpune.jpg" width="500" height="500" alt="Pune Districrt"></br>
+<img src ="D:\pune\punerainfall.jpg" width="800" height="500" alt="Pune Rainfall Districrt"></br>
+
+<h1>GEOMOROLOGRAPHY AND SOIL TYPES</h1>
+<p>The district forms part of Western Ghat and Deccan Plateau. Physiographically
+the district can be divided in to three distinct belts i.e. (1) The western belt stretching 
+from 16 to 31 km east of Sahayadri- an extremely rugged country cut by deep valleys,
+divided and crossed by hill ranges. (2) The central belt extending for about 30 km
+east of western belt across the tract whose eastern belt is roughly marked by a line
+drawn from Pabal in the north to south up to Purandhar through Pune. In this belt a
+series of small hills stretch in to valleys and large spurs from Plateaux and (3) The
+eastern belt with a rolling topography and low hills sinking slowly in to the plains with
+relatively broader valleys. Therefore, the physiography of the district has given rise to
+four major characteristic land forms namely; (1) The hills and Ghats (2) The foot hills
+(3) the plateau and (4) the plains.</p>
+ <p>The district has three major drainage systems namely (i) The BhimaGhod River System in northern, north-eastern and eastern part of which Bhima River
+has a total length of about 355 km and Ghod river has a drainage of about 196 km.
+(ii) Mula-Mutha River System covering the central part and having total length of 242
+km in the district. (iii) Nira River system covering south, south-east and eastern part
+and has total length of about 231 km in the district. The other Important rivers that are
+flowing through the district are Bhima, Andhra, Karna, Shivganga, Pushpavati, Pauna
+and Indrayani. All the rivers have most semi-dendritic drainage pattern and the
+drainage density is quite high. Based on geomorphological setting and drainage
+pattern the district is divided into 71 watersheds</p>
+
+
+<h1>WATER LEVEL SCENARIO</h1>
+<p>Central Ground Water Board monitors water levels in 43 Ground Water
+Monitoring wells (GWMW) in the district. These GWMW are measured four times in a
+year Viz. January (Rabi Season), May (Pre-monsoon), August (Monsoon) and
+November (Post-Monsoon).</p>
+
+<h1>DEPTH OF WATER LEVEL PRE MONSOON (May-2011)</h1>
+<p>The premonsoon depth to water level monitored during May-2011 ranges
+between 0.40 m.bgl (at Chinchwad) in west-central part and 20.10 mbgl (at Otur) in
+northern part of the district. It is observed that in western half of the district where
+more rainfall occurs, depth to water level during pre-monsoon season is less than 5
+mbgl. Depth to water level in eastern and south-eastern part of district is reported
+between 5 to 10 m bgl excepting in part of Daund, Baramati and Indapur talukas
+where canal irrigation system is applied. In isolated pockets depth to water level is
+occurring more than 10 mbgl in central parts (parts of Pune and Daund talukas) and
+northern parts (parts of Junnar taluka).</p>
+
+<img src ="D:\pune\punepremonsoon.jpg" width="500" height="500" alt="Pune Districrt"></br>
+
+
+<h1>2 DEPTH OF WATER LEVEL POSTMONSOON</h1>
+<p>The depth to water level in district during post-monsoon (Nov.2011) varies
+from 0.65 at Dorlewadi to 15.65 m bgl at Otur. Shallow water level of less than 2 m
+bgl is reported in almost entire western part, in central part (parts of Shirur and Khed
+talukas) and in southeastern part (parts Daund and Baramati talukas) of the district.
+In major part of the district in central, northern and southern parts the water level is
+occurring between 2 to 5 m bgl. Deeper water levels of more than 10 m bgl are
+restricted in extreme norhtern parts of the district (part of Junnar taluka). The post
+monsoon depth to water level map is depicted</p>
+
+<img src ="D:\pune\punepostmonsoon.jpg" width="500" height="500" alt="Pune Districrt"></br>
+
+<h1>GROUND WATER RESOURCES</h1>
+<p>Central Ground Water Board and Ground Water Survey and Development
+Agency (GSDA) of Maharashtra State have jointly carried out Taluka and Watershed
+wise estimation of ground water resources of Pune district for base year 2008-09
+according to GEC methodology 1997.Ground Water Resource Estimation figures as a
+whole for Pune district indicates that Net Ground Water Availability is 1662.84 MCM
+and Existing Ground Water Draft for all uses is 1189.08 MCM. After making provision
+for Domestic and Industrial Supply for next 25 Years kept as 127.62 MCM, Ground
+Water Availability for future Irrigation is 466.21 MCM. Over all Stage of Ground Water
+development of the district is 71.51%. Two Talukas namely Baramati and
+Purandhar are categorized as Semi-Critical where stage of ground water
+development is computed as 96.13% and 83.95 % respectively. In these Talukas
+further development of ground water is not recommended without adhering to the
+precautionary measures i.e. artificial recharge to augment ground water resources
+and adoption of ground water management practices in these areas. Taluka wise
+ground water resources figures of Pune district are given below. </p>
+
+<img src ="D:\pune\punegroundwater.jpg" width="800" height="500" alt="Pune Districrt"></br>
+
+<h1>GROUND WATER QUALITY</h1>
+<p>CGWB is monitoring the ground water quality of the Pune district since the last
+four decades through its established monitoring wells. The objectives behind the
+monitoring are to develop an overall picture of the ground water quality of the district.
+During the year 2011, the Board has carried out the ground water quality monitoring
+of 24 monitoring wells. These wells mainly consist of the dug wells representing the
+shallow aquifer. The sampling of ground water from these wells was carried out in the
+month of May 2011 (pre-monsoon period). The water samples after collection were
+immediately subjected to the analysis of various parameters in the Regional Chemical
+Laboratory of the Board at Nagpur. The parameters analyzed, include pH, Electrical
+Conductivity (EC), Total Alkalinity (TA), Total Hardness (TH), Nitrate (NO3) and
+Fluoride (F). The sample collection, preservation, storage, transportation and analysis
+were carried out as per the standard methods given in the manual of American Public
+Health Association for the Examination of Water and Wastewater (APHA, 1998). The
+ground water quality data thus generated was first checked for completeness and
+then the validation of data was carried out using standard checks. Subsequently, the
+interpretation of data was carried out to develop the overall picture of ground water quality in the district in the year 2011.</p>
+
+<h1>SUITABILITY OF GROUND WATER FOR DRINKING PURPOSES</h1>
+<p>The suitability of ground water for drinking purpose is determined keeping in
+view the effects of various chemical constituents in water on the biological system of
+human being. Though many ions are very essential for the growth of human, but
+when present in excess, have an adverse effect on human body. The standards
+proposed by the Bureau of Indian Standards (BIS) for drinking water (IS-10500-91,
+Revised 2003) were used to decide the suitability of ground water. The classification
+of ground water samples was carried out based on the desirable and maximum
+permissible limits for the parameters viz., TH, NO3 and F prescribed in the standards</p>
+<p>The perusal of Table-6 shows that the concentrations of most of the
+parameters are within desirable limit of the BIS standards except NO3 which has
+recorded concentration of more than maximum permissible limits in 17% of samples .
+Overall, it can be concluded that the ground water quality in the wells monitored in the
+district is not much affected except nitrate concentration in some wells. </p>
+
+<img src ="D:\pune\punedrinkingwater.jpg" width="800" height="500" alt="Pune Districrt"></br>
+
+
+<h1>STATUS OF GROUND WATER DEVELOPMENT</h1>
+<p>Ground water development depends on many factors viz. availability, crops
+water requirement, socio-economic fabric and on yield potential of aquifer system
+existing in the area. Ground water in the district is predominantly used for irrigation as
+it is major ground water utilizing sector. The minor irrigation data of year 2010-11
+indicates that the area irrigated by ground water sources in Pune district is 1,45,500
+hectares whereas canal irrigation accounts for 1,22,400 hectares and net irrigated
+area by all sources stand as 3,20,000 hectares. Thus it is analyzed that ground water
+is major source of irrigation and it accounts for 46 % of net irrigated area. It is
+reported that there were 91,669 dugwells/tubewells in the district for irrigation in year
+2010-11. In addition to this ground water is also important source of rural water
+supply.
+</p>
+
+<p>Ground water has special significance for agricultural development in state of
+Maharashtra. The ground water development in some part of the state has reached to
+critical stage resulting in decline of ground water levels. Thus there is need to adopt
+an integrated approach of development of ground water resources dovetailed with
+ground water augmentation to provide sustainability to ground water development.
+Excepting along rivers, almost entire district is underlain by Deccan Trap
+Basalt and major parts of the district adjoining the hilly areas as well as the entire
+northern, south western and south eastern parts have low ground water development
+potential. Such areas occur in almost entire Junnar, Ambegaon, Maval, Mulshi,
+Velhe, Bhor and parts of Khed and Shirur talukas. The central part of the district is
+occupied by the areas with medium to high ground water potential. Such areas are
+observed in parts of Khed, Shirur, Haveli and Purandar talukas and almost entire
+Baramati and Daund talukas. In the hard rock areas of the district the ground water
+can be developed through dugwells, which are the most feasible structure for ground
+water development. The borewells generally tap deeper fractures thus selection of
+site for pinpointing of borewells need proper scientific investigation.</P> 
+<P>The yield of dugwells in the district may be expected from 30 to 150 m3
+/day depending on the
+local hydrogeological conditions.
+The nature and yield potential of the aquifers occurring in different areas is
+given below in Table-8. A perusal of Table-8 shows that the 5 talukas i.e., Haveli,
+Shirur, Daund, Baramati and Purandar have medium to high yield potential and the
+suitable abstraction structures are dugwell, DCB and borewells. However in Baramati
+and Purandar talukas, which have been categorised as “Semi-Critical”, future ground
+water development is not recommended without adhering to the precautionary
+measures, i.e., artificial recharge to augment the ground water resources and
+adoption of ground water management practices, so that the sustainable
+development is achieved</p>
+<img src ="D:\pune\puneaquifere.jpg" width="500" height="500" alt="Pune Districrt"></br>
+
+
+<h1>GROUND WATER RELATED PROBLEMS</h1>
+<p>Parts of Pune district falls under rain shadow zone of Maharashtra
+State. From long term rainfall data, it is observed that eastern, southern, south
+eastern, central and nort western part of district around Indapur, Baramati, Jujuri,
+Daund, Talegaon, Dhamdhare, Alandi,Shirur and Bhor covering about 50 %
+geographical area experiences drought conditions. Therefore these areas are
+classified as Drought Prone Areas. Decadal pre-monsoon water level trend (2002-11)
+shows fall in water levels up to 0.56 m/year in 30% of the GWMW of the district,
+whereas in postmonsoon season fall is observed upto 0.27 m/year in 37% of GWMW.</p>
+<p>The falling trend of water level is observed in central-southern parts of the district (in
+parts of Pune, Purandhar and Bhor talukas) and in small western part of Mulshi taluka
+and in parts of Daund and Shirur talukas in eastern parts of the district..
+Ground Water Resource Estimation for Year 2008-09 also reveals that the
+stage of ground water development has reached up to 96.13% and two talukas of the
+district namely Baramati and Purandhar are categorized under “Semi-Critical”
+categories. This is an indication for critical situation of ground water conditions in
+district for which implementation of rain water harvesting and artificial recharge
+structures are to be given in depleting water levels areas.</p>
+<p> Quality of ground water is also affected by excessive nitrate content of more
+than 45mg/liter in some pockets which makes water unsuitable for drinking in those
+pockets. In 17% water samples collected from CGWB Ground Water Monitoring
+Wells excessive nitrate content was recorded during year 2011. Continuous intake of
+high nitrate content water causes infant “Methaemoglobinamea” popularly known as
+Blue Baby Syndrome. Thus all wells used for water supply should be first analyzed
+for nitrate content and if nitrate concentration found beyond permissible limit of
+45mg/liter then it should not be used for drinking. Adequate sanitary protection
+including leakage from sewerage system in populated area should be taken to control
+nitrate pollution in ground water system.
+</p>
+
+<h1>RECOMMENDATION</h1>
+<ul style="list-style-type:square">
+<li>Almost entire Pune district is underlain by Deccan Trap Basalt, where dugwells
+are most feasible ground water abstraction structures for ground water development.</li
+<li> Borewells are another alternative structures but their construction requires special
+technical and scientific attention. Borewells generally tap deeper fracture in hard area
+for which selection of sites is suggested at favorable hydrogeological locations.</li>
+<li> The Overall Stage of Ground Water Development in the district has reached about
+71.51%. Therefore future development of ground water resources should be taken up
+with proper care and planning.</li>
+<li>In Semi-Critical Baramati and Purandhar Talukas there is limited scope for further
+ground water development unless scheme for augmentation of ground water
+resources by means of artificial recharge is not made. Therefore future ground water
+development is not recommended without adhering to precautionary measures i.e.
+artificial recharge to augment ground water resources and adoption of ground water
+management practices in these areas.</li>
+<li>Haveli, Shirur and Daund talukas have medium to high yield potential and
+suitable abstraction structures recommended for ground water development in theses
+areas are dugwells, DCB and borewells.</li>
+<li>Quality of ground water is also affected by excessive nitrate content of more than
+45mg/liter which makes water unsuitable for drinking. In 17% water samples collected
+from CGWB Ground Water Monitoring Wells, excessive nitrate content was recorded
+during year 2011. Hence all wells used for water supply should be first analyzed for
+nitrate content and if nitrate concentration found beyond permissible limit of 45mg/liter
+then it should not be used for drinking. Adequate sanitary protection including
+leakage from sewerage system in populated area should be taken to control nitrate
+pollution in ground water system.</li>
+<li> There is scope for construction of suitable artificial recharge structures in the
+district especially in Semi-Critical areas. The structures recommended for hilly areas
+in west and north west parts are Contour Bunds, Gully Plugs, Nala Bunds and Check
+Dams etc. In other part of district structures like Nala Bunds, Check dams. KT Weirs
+and Percolation Tanks are suggested at suitable hydrogeological locations. Existing
+Dug Wells may also be used for artificial recharge of ground water, but due care is to
+be taken for pure and silt free water is used for recharge.</li>
+<li> Existing Percolation Tanks and village Ponds needs to be rejuvenated to act as
+water conservation and artificial recharge structures.</li>
+<li> For creating awareness among people towards water conservation and
+Augmentation of Ground Water Resources, Mass Awareness Programmes should be
+organized in large scale involving local public. Similarly Farmers should also be
+encouraged to adoption of appropriate crops planning and also to adopt modern
+irrigation practices including drip and sprinkler irrigation system.</li>
+
+
+</body>
+</html>
